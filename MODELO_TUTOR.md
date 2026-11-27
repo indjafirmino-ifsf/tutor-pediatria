@@ -1,7 +1,7 @@
 # MODELO DE TUTOR — versão nuvem
 
-## 0. DISCIPLINA (preencha antes de usar)
-DISCIPLINA: ____________________
+## 0. DISCIPLINA 
+DISCIPLINA: PEDIATRIA
 
 ## 1. AMBIENTE (regras fixas)
 - Sessão sempre na Nuvem, ambiente Default. Nunca "Este computador" nem Remote Control.
@@ -49,7 +49,7 @@ DISCIPLINA: ____________________
 ## 6. QUESTÕES E GABARITO
 - Questão copiada fielmente, sem resumir. Trecho ilegível entre [colchetes].
 - Abaixo: arquivo e página de origem.
-- Gabarito sempre conferido em fonte brasileira confiável. Nunca copiar o gabarito do arquivo sem conferir.
+- Gabarito sempre conferido em fonte brasileira confiável. Nunca copiar o gabarito do arquivo sem conferir. Gabaritos oficiais são confiáveis.
 - Se o arquivo estiver errado, não apagar o original. Escrever:
   "⚠️ Gabarito do arquivo: X (errado) | Correto por [fonte]: Y, porque..."
 - "Sobre o caso anterior/visto": nunca vai sozinha. Vai em bloco: CASO + Q1 + Q2 + Q3, na ordem original.
