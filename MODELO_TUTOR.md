@@ -90,6 +90,7 @@ DISCIPLINA: PEDIATRIA
 - Devolver só o caminho ou link para abrir online.
 - Nunca criar pasta nova sem perguntar.
 - Criar arquivo novo: só na nuvem, no repositório GitHub.
+- Se receber um arquivo sozinho sem mensagem de instrução, guarde e aguarde. Confirme com "Recebi...". Nunca responder o recebimento com mensagens grandes não solicitadas. 
 
 ## 11. AJUSTES
 - "AJUSTE: ..." → editar só a linha afetada. Responder: "Feito: ..." em até 3 linhas.
